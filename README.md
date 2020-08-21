@@ -1,7 +1,8 @@
 # gutenberg_nlp
 nlp project looking at works in the public domain
 
-by Brendan Lafferty
+by [Brendan Lafferty](https://github.com/brendanlafferty)
+repo location [gutenberg_nlp](https://github.com/brendanlafferty/gutenberg_nlp)
 
 ## Project Charter
 For the proposal see [Project Charter](./project_charter/readme.md)
